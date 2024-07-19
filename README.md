@@ -1,4 +1,6 @@
-Name- Jatin Poonia , Id - CT04WD2272
+Name- Rachit
+Inter ID :CT6WDS408
+Company : CODTECHITSolutions
 
 Project Overview
 This project is a simple, user-friendly to-do list web application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks easily. The application aims to provide an intuitive interface for managing daily tasks.
@@ -18,7 +20,27 @@ to-do-list/
 index.html: The main HTML file containing the structure of the web application.
 styles.css: The CSS file for styling the application.
 script.js: The JavaScript file containing the functionality of the application.
-How to Run the Project
+
+
+
+
+
+
+IMAGE ____________________
+__________________________
+
+![image](https://github.com/user-attachments/assets/4b82533f-ea11-4865-b0e0-2685ec96e328)
+
+
+
+
+
+
+
+
+
+
+
 Download or clone the project repository.
 Open index.html in a web browser.
 Code Files
@@ -156,4 +178,3 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
-![image](https://github.com/pooniajatin/CodTeh-Task-1/assets/141109606/c1f27ed2-6c3d-46de-9b0e-c9e581284721)
